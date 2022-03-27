@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-- [visit the blog for more tutorials](https://blog.laraveller.com).
+- [Visit the Laraveller blog for more tutorials](https://blog.laraveller.com).
+- - [Visit the Laraveller for more courses tutorials](https://laraveller.com).
 
 ## About Laravel
 
